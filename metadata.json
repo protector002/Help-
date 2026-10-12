@@ -1,0 +1,6 @@
+{
+  "name": "New Life Children Foundation",
+  "description": "New Life Children Foundation supports vulnerable children and orphans with access to nutritious food, safe shelter, education, healthcare, and compassionate care. Safe Children • Brighter Futures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
